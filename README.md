@@ -1,4 +1,4 @@
-Dark Channel Haze Removal
+Fog detection using Dark Channel Haze Removal
 =========================
 
 MATLAB implementation of "[Single Image Haze Removal Using Dark Channel Prior][1]"
